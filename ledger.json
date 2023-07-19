@@ -1,3 +1,15 @@
-{
-  "history": []
-}
+[
+  {
+    "blockNumber": 0,
+    "hash": "00005220575a5c9fc5365f16f296932748c0e33701ff3556abcc96fbd09a2dc5afe05c41f229256e625f1893fbd1a216",
+    "prevBlockHash": "0",
+    "nonce": 33382201,
+    "transactions": [
+      {
+        "from": 0,
+        "to": 742705335,
+        "amount": 100
+      }
+    ]
+  }
+]
